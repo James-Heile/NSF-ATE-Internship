@@ -1,5 +1,3 @@
-# NSF-ATE-Internship
-
 # Moreyball - Exploring the Impact of Analytics on the Modern NBA 
 
 **Project Overview**<br>
