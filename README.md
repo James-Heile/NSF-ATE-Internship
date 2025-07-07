@@ -18,8 +18,6 @@ Inspired by Billy Beane's "Moneyball" story in baseball, this project focuses on
 * Python
 * Pandas
 * Kaggle NBA Datasets
-* Basketball-Reference
-* NBA API (GitHub - swar/nba_api)
 
 **Disclaimer:**<br>
 As someone newer to coding and data analysis, this project will also serve as a learning experience. I hope to accomplish all of my goals over the coming weeks, but I may have to pivot the projects direction as I go along. Consequently, I welcome any feedback, suggestions, or resources that might help shape this project.
