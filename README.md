@@ -7,7 +7,7 @@ This project aims to explore how data analytics has influenced strategy in the m
 3. Offensive efficiency<br>
 3. Player evaluation and usage<br>
 
-Inspired by Billy Beane's "Moneyball" story in baseball, this project focuses on its NBA counterpart, particularly the analytics movement led by former Houston Rockets General Manager Daryl Morey. Rather than analyzing the Rockets specifically, this project looks at league-wide trends that have emerged following Morey's influence since the mid 2000's.
+Inspired by Billy Beane's "Moneyball" story in baseball, this project focuses on its NBA counterpart, particularly the analytics movement led by former Houston Rockets General Manager Daryl Morey.
 
 **Objectives:**<br>
 * Investigate how NBA strategy has shifted due to the rise of analytics
