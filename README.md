@@ -17,4 +17,4 @@ Inspired by Billy Beane's "Moneyball" story in baseball, this project focuses on
 **Tools/Resources:**<br>
 * Python
 * Pandas
-* Kaggle NBA Datasets
+* Kaggle's NBA Datasets
