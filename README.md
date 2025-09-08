@@ -18,11 +18,3 @@ Inspired by Billy Beane's "Moneyball" story in baseball, this project focuses on
 * Python
 * Pandas
 * Kaggle's NBA Datasets
-
-**Note:**<br>
-This repository contains two versions of the notebook:
-
-1. The rough working draft, where I explored ideas, wrote initial code, and worked through challenges.
-2. The final polished notebook, which presents a cleaner, more organized version of the analysis and findings.
-
-I included both to provide insight into my full thought process from start to finish.
